@@ -1,3 +1,4 @@
+CREATE DATABASE irms_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
 CREATE TABLE usertbl (
     id INT AUTO_INCREMENT PRIMARY KEY,
